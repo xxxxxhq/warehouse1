@@ -1,0 +1,44 @@
+.footer{
+    width: 100%;
+    display: flex;
+}
+.subfooter{
+    width: 1240px;
+    height: 170px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ztl{
+    width: 234px;
+    height: 170px;
+    font-size: 12px;
+    text-align: center;
+    background: #5f5750;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.subztl{
+    width: 70px;
+    height: 64px;
+    margin-top: 17px;
+}
+.subztl img{
+    width: 24px;
+    height: 24px;
+}
+.subztl span{
+    color: #ffffff;
+}
+.ztr{
+    width: 987px;
+    height: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+.ztrimg img{
+    width: 316px;
+    height: 170px;
+}
